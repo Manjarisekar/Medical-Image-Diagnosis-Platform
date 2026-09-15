@@ -23,3 +23,6 @@ An end-to-end clinical decision support platform powered by Deep Learning (ResNe
 * **AI & Computer Vision:** PyTorch, torchvision, OpenCV
 * **Medical Data:** Pydicom, Pillow
 * **Database & Export:** SQLite3, ReportLab
+
+## 🌐 Live Demo
+👉 [Click Here to Access Live Application](https://medical-image-diagnosis-platform-vkc2nkwfexwhjjem4sskd.streamlit.app)
